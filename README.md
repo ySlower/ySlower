@@ -6,9 +6,10 @@
 ---
 
 ## 🎮 Meu Perfil do Discord!
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/822556773873352715?theme=dark&borderRadius=20px" alt="Discord Presence"/>
-</p>
+<a href="https://discord.com/users/822556773873352715">
+  <img src="https://lanyard-profile-readme.vercel.app/api/822556773873352715?theme=light&borderRadius=15px" />
+</a>
+
 
 ---
 
@@ -36,7 +37,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/822556773873352715">
-    <img src="https://img.shields.io/badge/Discord-ySlower%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-srhyperx%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://github.com/ySlower">
     <img src="https://img.shields.io/badge/GitHub-ySlower-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
