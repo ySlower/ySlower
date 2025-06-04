@@ -8,7 +8,7 @@
 ## 🎮 Meu Perfil do Discord!
 <p align="center">
   <a href="https://discord.com/users/822556773873352715">
-    <img src="https://lanyard.cnrad.dev/api/822556773873352715?theme=light&borderRadius=15px" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/822556773873352715?theme=dark&borderRadius=20px" alt="Discord Presence"/>
   </a>
 </p>
 
