@@ -6,9 +6,12 @@
 ---
 
 ## 🎮 Meu Perfil do Discord!
-<a href="https://discord.com/users/822556773873352715">
-  <img src="https://lanyard-profile-readme.vercel.app/api/822556773873352715?theme=light&borderRadius=15px" />
-</a>
+<p align="center">
+  <a href="https://discord.com/users/822556773873352715">
+    <img src="https://lanyard.cnrad.dev/api/822556773873352715?theme=light&borderRadius=15px" alt="Discord Presence" />
+  </a>
+</p>
+
 
 
 ---
